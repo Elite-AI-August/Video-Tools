@@ -23,6 +23,7 @@ There are two version of the interface of the ROI Selection Tool. The default in
 2) Copy the file “ROISelectionTool.eywrad
 3) Replace the file in the IEMP- ROISelectionTool with the original one
 
+# Video tracker tool:
 
 The Video Tracker Tool, a research analysis tool developed in the context of the IEMP (Interpersonal Entrainment in Music Performance) project (https://musicscience.net/projects/iemp/) by Casa Paganini-InfoMus research team in collaboration with Durham University and the MARCS Institute of Western Sydney University. The Video Tracker Tool was originally conceived for supporting research on automatic analysis of body movement in nonverbal communication contexts.
 The Video Tracker Tool takes as input a file created by the ROI Tool, in which relevant regions of interest have been selected from a video or set of videos (e.g. individual performers). 
