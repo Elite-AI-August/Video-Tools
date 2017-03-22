@@ -1,6 +1,6 @@
-# VIDEO TOOLS
+# Video Tools
 
-# ROI SELECTION TOOL:
+# Roi (region of interest) selection tool:
 The ROI Selection Tool, a research analysis tool developed in the context of the IEMP (Interpersonal Entrainment in Music Performance) project (https://musicscience.net/projects/iemp/) by Casa Paganini-InfoMus research team in collaboration with Durham University and the MARCS Institute of Western Sydney University. The ROI Selection Tool was originally conceived for supporting research on automatic analysis of body movement in nonverbal communication contexts.
 
 The ROI Selection Tool runs on the EyesWeb XMI Platform (version 5.7.0.0) that can be downloaded from:
