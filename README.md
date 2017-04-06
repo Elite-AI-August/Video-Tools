@@ -3,7 +3,7 @@
 ftp://ftp.infomus.org/Evaluate/EyesWeb/XMI/Version_5.7.x/EyesWeb_XMI_setup_5.7.0.0.exe
 
 2) Download the Eyesweb_XMI_ROI Tool_setup_5.7.0.0.exe file an run it. 
-ftp://ftp.infomus.org/IEMP/Eyesweb_XMI_ROI%20Tool_setup_5.7.0.0.exe
+ftp://ftp.infomus.org/pub/IEMP/Eyesweb_XMI_ROI%20Tool_setup_5.7.0.0.exe
 The installer will look for the Eyesweb installation folder, and automatically install the video tools in that location.
 
 # ROI (region of interest) selection tool:
