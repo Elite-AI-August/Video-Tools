@@ -2,7 +2,7 @@
 1) The Video Tool runs on the EyesWeb XMI Platform (version 5.7.0.0) that can be downloaded from:
 ftp://ftp.infomus.org/Evaluate/EyesWeb/XMI/Version_5.7.x/EyesWeb_XMI_setup_5.7.0.0.exe
 
-2) Download the Video Tool installers. The installer will look for the Eyesweb installation folder. To work correctly the tools should be installed in the Eyesweb folder.
+2) Download the Eyesweb_XMI_ROI Tool_setup_5.7.0.0.exe file an run it. The installer will look for the Eyesweb installation folder, and automatically install the video tools in that location.
 
 # ROI (region of interest) selection tool:
 The ROI Selection Tool is a research analysis tool developed in the context of the AHRC-funded IEMP (Interpersonal Entrainment in Music Performance) project (https://musicscience.net/projects/iemp/) by Casa Paganini-InfoMus research team in collaboration with Durham University and the MARCS Institute of Western Sydney University. The ROI Selection Tool was originally conceived for supporting research on automatic analysis of body movement in nonverbal communication contexts.
