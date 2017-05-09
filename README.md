@@ -1,3 +1,6 @@
+# Updates: 
+09/05/2017 : fixed some bugs on the ROI Selection Tool, a minor improvements 
+
 # Video Tools
 1) The Video Tool runs on the EyesWeb XMI Platform (version 5.7.0.0) that can be downloaded from:
 ftp://ftp.infomus.org/Evaluate/EyesWeb/XMI/Version_5.7.x/EyesWeb_XMI_setup_5.7.0.0.exe
