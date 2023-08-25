@@ -10,8 +10,6 @@ ftp://ftp.infomus.org/pub/IEMP/Eyesweb_XMI_ROI%20Tool_setup_5.7.0.0.exe
 The installer will look for the Eyesweb installation folder, and automatically install the video tools in that location.
 
 # ROI (region of interest) selection tool:
-The ROI Selection Tool is a research analysis tool developed in the context of the AHRC-funded IEMP (Interpersonal Entrainment in Music Performance) project (https://musicscience.net/projects/iemp/) by Casa Paganini-InfoMus research team in collaboration with Durham University and the MARCS Institute of Western Sydney University. The ROI Selection Tool was originally conceived for supporting research on automatic analysis of body movement in nonverbal communication contexts.
-
 
 The ROI Selection Tool is a piece of software that allows the user to:
 
